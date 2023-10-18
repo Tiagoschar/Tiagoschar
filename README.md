@@ -20,9 +20,9 @@ Um projeto criado por mim.
 
 - **Objetivo:**  Aprender sobre o GitHub Pages.
 
-- **Conteudo do Site:**  Recomendações literárias e um visual aconchegante
+- **Conteudo do Site:**  Recomendações literárias e um visual aconchegante.
 
-- **Link do site:**  [https://tiagoschar.github.io/livrosecafe/](https://tiagoschar.github.io/livrosecafe/)
+- **Você pode acessar o Livros e Café diretamente em:**  [https://tiagoschar.github.io/livrosecafe/](https://tiagoschar.github.io/livrosecafe/).
 
 
 ## Habilidades
