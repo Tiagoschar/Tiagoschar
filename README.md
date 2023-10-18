@@ -1,6 +1,4 @@
-# Apresentação Profissional
-
-## Sobre Mim
+# Sobre Mim
 
 Meu nome é **Tiago Schartner Carvalho** e sou um estudante apaixonado por tecnologia e programação.
 
