@@ -15,6 +15,15 @@ Um projeto criado por Tiago, Renan e Pedro. Nosso objetivo é criar um e-commerc
 
 - **Nosso Compromisso:**  Embora o site ainda não esteja perfeito, estamos trabalhando duro para criar uma experiência de compra agradável e eficiente para todos os amantes de plantas.
 
+### [Livros e Café](https://github.com/Tiagoschar/livrosecafe)
+Um projeto criado por mim.
+
+- **Objetivo:**  Aprender sobre o GitHub Pages.
+
+- **Conteudo do Site:**  Recomendações literárias e um visual aconchegante
+
+- **Link do site:**  [https://tiagoschar.github.io/livrosecafe/](https://tiagoschar.github.io/livrosecafe/)
+
 
 ## Habilidades
 
